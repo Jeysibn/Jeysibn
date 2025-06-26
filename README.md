@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeysibn
 - 👀 I’m interested in building my career as a computer engineer.
 - 🌱 I’m currently learning at a university taking Computer Engineering course.
-- 💞️ I’m looking to collaborate on helping me build my career.
+
 - 📫 How to reach me ...
-- 😄 Pronouns: He/Him
+
